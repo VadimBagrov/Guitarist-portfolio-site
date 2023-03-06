@@ -1,4 +1,4 @@
-# # Guitarist-portfolio-site
+# Guitarist-portfolio-site
 ### Site-card for a guitarist
 ---
 ### Launch site :
